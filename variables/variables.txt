@@ -1,0 +1,7 @@
+1. console.log();
+
+console.log() simply displays information in your JavaScript console.
+
+2. Javascript variables
+
+Variables are containers that store information for later use.
