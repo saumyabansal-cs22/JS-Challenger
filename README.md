@@ -11,7 +11,7 @@ Variables are containers that store information for later use.
 Variables can be declared using three methods:
 let, const and var . 
 
-let keyword does not allow to redeclare the same variable using it, For example:
+**let keyword** does not allow to redeclare the same variable using it, For example:
 
 let num=9;
 
@@ -24,3 +24,16 @@ Code written above will throw error because we have redeclared the variable num 
 let b=8;
 b=7;
 console.log(b);
+
+**var keyword** allows to redeclare and reninitialize the variable. For example:
+
+var a=0;
+var a=9;
+console.log(a);
+
+or it can be...
+
+var g=7;
+g=5;
+console.log(g);
+
