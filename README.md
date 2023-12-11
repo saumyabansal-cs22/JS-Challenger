@@ -14,7 +14,9 @@ let, const and var .
 let keyword does not allow to redeclare the same variable using it, For example:
 
 let num=9;
+
 let num=0;
+
 console.log(num);
 
 Code written above will throw error because we have redeclared the variable num using let ....however we can reinitialize it as:
