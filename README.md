@@ -37,7 +37,7 @@ var g=7;
 g=5;
 console.log(g);
 
-**const keyword** neither allows to redeclare a variable nor it allows us to reinitialize the variable. For example:
+**const keyword** neither allows us to redeclare a variable nor it allows us to reinitialize the variable. For example:
 
 const a=7;
 console.log("value of a = "+a);
