@@ -52,3 +52,13 @@ console.log(a);
 
 Above code will throw an error.
 
+
+**3. JAVASCRIPT BOOLEANS**
+
+Sometimes you might want to store information that cannot be represented by a number.
+
+For example, the product for which we already have a price could sometimes be on sale and sometimes not.
+
+To store this kind of information we can use JavaScript Booleans, like so:
+
+const isOnSale = true;
