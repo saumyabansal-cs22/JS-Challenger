@@ -62,3 +62,5 @@ e.g, the product for which we already have a price could sometimes be on sale an
 To store this kind of information we can use JavaScript Booleans, like so:
 
 const isOnSale = true;
+
+Boolean values have two values : True or false.
