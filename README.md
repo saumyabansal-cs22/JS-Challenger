@@ -64,3 +64,5 @@ To store this kind of information we can use JavaScript Booleans, like so:
 const isOnSale = true;
 
 Javascript Booleans have two values : True or false.
+
+Sometimes we want to work with other data types, such as numbers, in a Boolean context.
