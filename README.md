@@ -53,7 +53,7 @@ console.log(a);
 Above code will throw an error.
 
 
-**3. JAVASCRIPT BOOLEANS**
+**3. Javascript booleans**
 
 Sometimes you might want to store information that cannot be represented by a number.
 
