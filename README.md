@@ -66,5 +66,7 @@ const isOnSale = true;
 Javascript Booleans have two values : True or false.
 
 Sometimes we want to work with other data types, such as numbers, in a Boolean context.
+
 Every single value in JavaScript can be transformed to a boolean value.
+
 To do so, we can make use of the Boolean() function.
