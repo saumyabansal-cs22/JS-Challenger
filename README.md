@@ -70,3 +70,7 @@ Sometimes we want to work with other data types, such as numbers, in a Boolean c
 Every single value in JavaScript can be transformed to a boolean value.
 
 To do so, we can make use of the Boolean() function.
+
+console.log(Boolean(2));
+
+Above  code will return true.
