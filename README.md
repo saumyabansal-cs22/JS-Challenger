@@ -5,7 +5,7 @@ Here I'll be exploring some javascript code challenges and listing all the docum
 
 console.log() simply displays information in your JavaScript console.
 
-**2. Javascript variables**
+**2. Javascript variables:**
 
 Variables are containers that store information for later use.
 Variables can be declared using three methods:
