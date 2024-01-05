@@ -73,4 +73,4 @@ To do so, we can make use of the Boolean() function.
 
 console.log(Boolean(2));
 
-Above  code will return true.
+Above  code will return True.
