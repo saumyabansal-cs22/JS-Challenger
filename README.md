@@ -74,8 +74,8 @@ To do so, we can make use of the Boolean() function.
 console.log(Boolean(2));
 
 Above  code will return True.
-
-**4. Operators**
+**
+**4. Operators****
 
 -> Comparison operators - Equal
 In the console.log() statement below we use the Equal operator to check whether numOne and numTwo have the same value.
