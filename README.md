@@ -11,7 +11,7 @@ Variables are containers that store information for later use.
 Variables can be declared using three methods:
 let, const and var . 
 
-**let keyword** does not allow to redeclare the same variable using it, For example:
+**(i) let keyword** does not allow to redeclare the same variable using it, For example:
 
 let num=9;
 
