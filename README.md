@@ -25,7 +25,7 @@ let b=8;
 b=7;
 console.log(b);
 
-**var keyword** allows to redeclare and reninitialize the variable. For example:
+**(ii)var keyword** allows to redeclare and reninitialize the variable. For example:
 
 var a=0;
 var a=9;
