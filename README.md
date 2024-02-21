@@ -75,6 +75,8 @@ console.log(Boolean(2));
 
 Above  code will return True.
 **
+
+
 **4. Operators****
 
 -> Comparison operators - Equal
