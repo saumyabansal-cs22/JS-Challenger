@@ -1,0 +1,3 @@
+The first operator we explore is the Equal to (==) operator. It checks if two values are equal. 
+For example:
+2 == 2
